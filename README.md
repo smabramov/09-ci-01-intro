@@ -1,11 +1,11 @@
 # 09-ci-01-intro-Абрамов Сергей
 
-![1]()
+![1](https://github.com/smabramov/09-ci-01-intro/blob/7769d4afd946eb140bb9bb63fab4be062b0320ec/jpg/1.jpg)
 
-![2]()
+![2](https://github.com/smabramov/09-ci-01-intro/blob/7769d4afd946eb140bb9bb63fab4be062b0320ec/jpg/2.jpg)
 
-![3]()
+![3](https://github.com/smabramov/09-ci-01-intro/blob/7769d4afd946eb140bb9bb63fab4be062b0320ec/jpg/3.jpg)
 
-![4]()
+![4](https://github.com/smabramov/09-ci-01-intro/blob/7769d4afd946eb140bb9bb63fab4be062b0320ec/jpg/4.jpg)
 
-[файл]()
+[файл](https://github.com/smabramov/09-ci-01-intro/blob/7769d4afd946eb140bb9bb63fab4be062b0320ec/jpg/%D0%BE%D1%82%D1%87%D0%B5%D1%82.xml)
